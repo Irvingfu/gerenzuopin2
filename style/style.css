@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: #FE227A;
+	margin: 0px;
+	font-size: 16px;
+}
+.table {
+	background-color: #FFF;
+}
+table {
+	background-color: #FFF;
+	font-size: 24px;
+}
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #F00;
+	line-height: 130%;
+	text-indent: 10px;
+	font-size: 20px;
+}
+.myimg {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+}
+.aa {
+	background-image: url(../images/%E7%95%99%E5%BD%B12.jpg);
+}
+.bb {
+	background-image: url(../images/%E7%95%99%E5%BD%B12.jpg);
+	font-size: 18px;
+}
+
+pp {
+	line-height: 150px;
+	color: #F00;
+	text-indent: 25px;
+}
+body {
+	color: #FFF;
+}
